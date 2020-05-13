@@ -2,18 +2,21 @@
 
 ### Feature Selection
 
-The features selected for this database are averages of the accelerometer and gyroscope 3-axial raw signals from "A Public Domain Dataset for Human Activity Recognition Using Smartphones." (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+The features selected for this database are averages of the accelerometer and gyroscope 3-axial raw signals from "A Public Domain Dataset for Human Activity Recognition Using Smartphones."  
+(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 See description of these fields within this dataset.
 
 The set of variables that were estimated from these signals are: 
 
-Mean: Mean value
-SD: Standard deviation
+Mean: Mean value  
+SD: Standard deviation  
 
 ### Variable
 
-The complete list of variables of each sample is below:
+The complete list of variables of each sample is below:  
+
+
  [1] "Activity Desc"                         
  [2] "Subject"                               
  [3] "Time Body Accelr Mean X"               

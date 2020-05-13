@@ -7,19 +7,20 @@ Version:  1
  
 This tidy dataset contains the averages of various readings grouped by activity and subject of measurements for use in machine learning.
 
+
 ### Data Files
 
 The working directory contains the following files:
 
-Activity_Labels.txt
-features.txt
-features_info.txt
-subject_test.txt
-subject_train.txt
-X_Test.txt
-X_Train.txt
-y_test.txt
-y_train.txt
+Activity_Labels.txt  
+features.txt  
+features_info.txt  
+subject_test.txt  
+subject_train.txt  
+X_Test.txt  
+X_Train.txt  
+y_test.txt  
+y_train.txt  
 
 
 ### Process
